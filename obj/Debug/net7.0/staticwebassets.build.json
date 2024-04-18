@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "w75uerT1j+cyzVZm5TzynymRRQSwQjoDTInBVCo/ITU=",
+  "Source": "MinimalAPIPeliculas",
+  "BasePath": "_content/MinimalAPIPeliculas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MinimalAPIPeliculas\\wwwroot",
+      "Source": "MinimalAPIPeliculas",
+      "ContentRoot": "C:\\Users\\wkatb\\Documents\\dev\\API\\MinimalAPIPeliculas\\MinimalAPIPeliculas\\wwwroot\\",
+      "BasePath": "_content/MinimalAPIPeliculas",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
